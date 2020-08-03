@@ -1,0 +1,14 @@
+mean(mtcars$mpg)
+library(datasets)
+> library(datasets)
+version
+sessioninfo
+sessionInfo()
+getdw()
+print("hello")
+getdw()
+getdw( )
+dir()
+mydata.csv
+dir()
+install.packages("swirl")
